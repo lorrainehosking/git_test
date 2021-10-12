@@ -1,0 +1,1 @@
+This is Lorraine's first git project!
